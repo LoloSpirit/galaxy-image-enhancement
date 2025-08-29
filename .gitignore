@@ -1,4 +1,4 @@
 .DS_Store
 .gitattributes
-data/aligned
-data/calibrated_raw
+data/aligned/*
+data/calibrated_raw/*
